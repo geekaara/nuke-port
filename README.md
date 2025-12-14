@@ -11,10 +11,17 @@ A simple, cross-platform CLI tool to kill processes listening on a specific port
 
 ## Installation
 
+### Homebrew (macOS/Linux)
+
+```bash
+brew tap geekaara/tap
+brew install nuke-port
+```
+
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/nuke-port.git
+git clone https://github.com/geekaara/nuke-port.git
 cd nuke-port
 go build -o nuke
 ```
