@@ -1,0 +1,10 @@
+# Binaries
+nuke
+nuke.exe
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Go
+go.sum
