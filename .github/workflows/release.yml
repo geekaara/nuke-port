@@ -26,4 +26,4 @@ jobs:
           goarch: ${{ matrix.goarch }}
           project_path: "."
           binary_name: "nuke"
-          extra_files: "README.md CONTRIBUTORS.md"
+          extra_files: "README.md CONTRIBUTION.md"
