@@ -18,6 +18,18 @@ brew tap geekaara/tap
 brew install nuke-port
 ```
 
+### Windows (Winget / Scoop / Manual)
+
+**Manual**: Download the `.zip`/`.exe` from [Releases](https://github.com/geekaara/nuke-port/releases).
+
+**Scoop** (Coming Soon):
+
+```bash
+scoop install https://github.com/geekaara/nuke-port/releases/latest/download/nuke-port_Windows_x86_64.zip
+```
+
+_(Once releases are generated)_
+
 ### From Source
 
 ```bash
