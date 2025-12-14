@@ -1,5 +1,7 @@
 # nuke-port
 
+![Demo](assets/demo.gif)
+
 A simple, cross-platform CLI tool to kill processes listening on a specific port.
 
 ## Features
